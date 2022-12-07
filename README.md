@@ -43,6 +43,7 @@ MATERIALES
 Cable UTP para hacer las conexiones
 
 PROCEDIMIENTO
+
 1) Colocamos los 3 transistores en el protoboard separados de manera uniforme
 
 
@@ -65,13 +66,19 @@ PROCEDIMIENTO
 
 
 RESULTADOS
+
 Se logro implementar el circuito de manera exitosa y sin dificultad alguna.
+
 También se puede notar que los transistores actuan como un interruptor para el circuito puesto que si los cables conectados a la base de cada transistor no hacen contacto con el agua, los transistores no permiten el paso de la corriente.
+
 CONCLUSIONES
+
 Los sensores de nivel de agua trabajan midiendo directamente la altura del líquido sobre una línea de referencia.
 
 Los transistores funcionan como un interruptor para controlar el circuito.
 
 BIBLIOGRAFÍA
+
 https://www.youtube.com/watch?v=npfzICYJ4bA&list=LL&index=1&t=348s
+
 https://es.slideshare.net/TonyQuispe3/sensor-de-nivel-de-agua-126358151
