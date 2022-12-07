@@ -9,15 +9,18 @@ Nombres: JEAN MACIAS, DIRSON TROYA, JOAN CALDERÓN
 NRC: 10063 - 10066
 
 
-OBJETIVOS
-OBJETIVO GENERAL
+# OBJETIVOS
+
+**OBJETIVO GENERAL**
 Implementar un circuito el cual indique el nivel del agua haciendo uso de transistores.
 
-OBJETIVOS ESPECÍFICOS
+**OBJETIVOS ESPECÍFICOS**
 
 Comprender el funcionamiento de los transistores mediante su implementación en el proyecto.
 Analizar de manera detenida el proyecto y la manera de implementarlo.
-RESUMEN
+
+# RESUMEN
+
 El siguiente diagrama representa el circuito que se va a implementar:
 
 ![Water-Level-Inidcator](https://user-images.githubusercontent.com/117947198/206071634-bca9d0fe-d37b-48b2-ba87-d61a646c13a1.jpg)
@@ -25,8 +28,9 @@ El siguiente diagrama representa el circuito que se va a implementar:
 Antes de continuar con la implementación del circuito, se debe tener conocimiento previo sobre el uso de los transistores para no tener dificultad en realizar las conexiones respectivas.
 
 
-EXPLICACIÓN
-MATERIALES
+# EXPLICACIÓN
+
+**MATERIALES**
 
 3 transistores 2N3904
 
@@ -42,7 +46,7 @@ MATERIALES
 
 Cable UTP para hacer las conexiones
 
-PROCEDIMIENTO
+# PROCEDIMIENTO
 
 1) Colocamos los 3 transistores en el protoboard separados de manera uniforme
 
@@ -65,19 +69,19 @@ PROCEDIMIENTO
 7) Por último conectamos la batería de 9V al circuito y colocamos los extremos de los cables dentro de un recipiente con agua
 
 
-RESULTADOS
+# RESULTADOS
 
 Se logro implementar el circuito de manera exitosa y sin dificultad alguna.
 
 También se puede notar que los transistores actuan como un interruptor para el circuito puesto que si los cables conectados a la base de cada transistor no hacen contacto con el agua, los transistores no permiten el paso de la corriente.
 
-CONCLUSIONES
+# CONCLUSIONES
 
 Los sensores de nivel de agua trabajan midiendo directamente la altura del líquido sobre una línea de referencia.
 
 Los transistores funcionan como un interruptor para controlar el circuito.
 
-BIBLIOGRAFÍA
+# BIBLIOGRAFÍA
 
 https://www.youtube.com/watch?v=npfzICYJ4bA&list=LL&index=1&t=348s
 
