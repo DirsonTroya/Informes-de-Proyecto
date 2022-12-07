@@ -12,6 +12,7 @@ NRC: 10063 - 10066
 # OBJETIVOS
 
 **OBJETIVO GENERAL**
+
 Implementar un circuito el cual indique el nivel del agua haciendo uso de transistores.
 
 **OBJETIVOS ESPECÍFICOS**
